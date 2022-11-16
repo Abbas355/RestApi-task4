@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteRule  ^inventory/items index.php [NC,L]
+RewriteRule  ^inventory/update index.php [NC,L]
+RewriteRule  ^inventory/del index.php [NC,L]
